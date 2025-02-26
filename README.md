@@ -1,1 +1,1 @@
-# testing git in terminal
+# editing readme
